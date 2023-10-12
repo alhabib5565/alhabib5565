@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <img src="https://i.ibb.co/fvKn91g/Black-and-White-Gradient-Personal-Linked-In-Banner.png" alt="Banner about Arturs Smirnovs">
 
