@@ -29,8 +29,6 @@
 
 ####
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on E_Class
 - 🌱 I’m currently learning Redux
 
