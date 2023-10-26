@@ -3,7 +3,7 @@
 
 <div align="center">
   <h2>Hi! 👋 I am MD.AL-HABIB</h2>
-  <p>Passionate MERN stack developer with expertise in front-end technologies like HTML5, CSS3, Tailwind, JavaScript, React.js, and Redux, and back-end technologies like Node.js (familiar), Express.js, and MongoDB. I am continuously learning new technologies.</p>
+  <p>I'm a front-end web developer with a passion for crafting immersive and responsive user experiences. My goal is to join a dynamic team, learn, grow, and contribute to building user-centric web applications.I stay up-to-date with the latest web technologies through continuous learning and practice.</p>
 </div>
 
 #### Skills
