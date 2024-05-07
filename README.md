@@ -28,10 +28,12 @@
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 
-####
-
-- 🔭 I’m currently working on E_Class
+#### About Me
+- 🔭 I’m currently working on [Cleaning Supply Store](https://assignment-8-client.vercel.app/)
 - 🌱 I’m currently learning Redux
+
+### GitHub Summery
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alhabib5565)](https://git.io/streak-stats)
 
 #### Where you find me
 <a href="https://web.facebook.com/profile.php?viewas=100000686899395&id=100071110307696" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
